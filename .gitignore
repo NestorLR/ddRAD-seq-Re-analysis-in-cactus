@@ -1,3 +1,37 @@
+# Datos crudos
+data/raw-data/
+
+# Archivos de secuenciación
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+
+# Archivos de alineamiento
+*.bam
+*.sam
+*.bai
+
+# Variantes
+*.vcf
+*.vcf.gz
+
+# Outputs pesados de pipelines
+*.clusters
+*.loci
+*.alleles
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
+
 # History files
 .Rhistory
 .Rapp.history
