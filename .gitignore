@@ -27,6 +27,24 @@ data/raw-data/
 
 # IQ-TREE large inputs
 results/iqtree/input/*.phy
+
+# IQ-TREE outputs (intermediate)
+*.log
+*.iqtree
+*.ckp.gz
+*.model.gz
+*.bionj
+*.splits.nex
+
+# Opcional: ignorar TODOS los outputs de IQ-TREE
+results/iqtree/*/*.log
+results/iqtree/*/*.iqtree
+results/iqtree/*/*.ckp.gz
+results/iqtree/*/*.model.gz
+results/iqtree/*/*.bionj
+results/iqtree/*/*.splits.nex
+
+
 # Jupyter
 .ipynb_checkpoints/
 
