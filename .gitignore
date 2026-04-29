@@ -25,6 +25,8 @@ data/raw-data/
 *.log
 *.tmp
 
+# IQ-TREE large inputs
+results/iqtree/input/*.phy
 # Jupyter
 .ipynb_checkpoints/
 
