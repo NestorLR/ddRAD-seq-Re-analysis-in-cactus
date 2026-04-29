@@ -47,8 +47,8 @@ ddRAD-seq/
 ├── data/               # Data directories (raw data NOT tracked)
 │   ├── raw-data/       # Raw FASTQ files (ignored by Git)
 │   ├── processed/      # Quality-filtered reads
-│   ├── ipyrad/         # Assembly outputs (ipyrad)
-│   └── stacks/         # Assembly outputs (Stacks)
+│   ├── ipyrad/         # Assembly outputs (ipyrad, ignored by Git)
+│   └── stacks/         # Assembly outputs (Stacks, ignored by Git)
 │
 ├── metadata/           # Sample metadata and population information
 │

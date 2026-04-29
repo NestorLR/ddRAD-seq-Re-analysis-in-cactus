@@ -1,0 +1,4 @@
+"","step","SNPs","percent_retained"
+"1","Initial",173832,100
+"2","Missing <=0.5",15122,8.7
+"3","MAF >=0.05",4744,2.73
