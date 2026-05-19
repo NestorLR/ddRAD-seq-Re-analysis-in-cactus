@@ -75,7 +75,7 @@ This repository includes:
   * SNP filtering
   * downstream analyses (phylogenetic inference and clustering)
 
-* A set of **Bash scripts** implementing an alternative pipeline using *Stacks*. In addition, a set of **Bash adn R scripts** for phylogenetic and clustering analysis is provided. 
+* A set of **Bash scripts** implementing an alternative pipeline using *Stacks*. In addition, a set of **Bash and R scripts** for phylogenetic and clustering analysis is provided. 
 
 ---
 
